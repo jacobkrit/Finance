@@ -4,8 +4,7 @@
 
 **Interest**: The fee paid in exchange for the right to borrow money. There are two main types of interest: Simple and Compound.
 
-- **Simple interest** is a predetermined percentage of the principle that was initially lent to the borrower that the borrower must pay in exchange for access to the funds.
-
+- **Simple interest** is a predetermined percentage of the principle that was initially lent to the borrower that the borrower must pay in exchange for access to the funds.  
 $$FV=PV*r*n$$  
 $FV$: Future Value  
 $PV$: Present value (Principal amount)  
