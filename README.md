@@ -1,8 +1,27 @@
-# Finance
-Compound Interest, Costs, Annuity Formulas and more
+# **Finance**
+### **Compound Interest, Costs, Annuity Formulas and more**
 
-$$
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-$$
 
-$$\sum_{n=1}^{10} n^2$$
+**Interest**: The fee paid in exchange for the right to borrow money. There are two main types of interest: Simple and Compound.
+
+- **Simple interest** is a predetermined percentage of the principle that was initially lent to the borrower that the borrower must pay in exchange for access to the funds.
+
+$$FV=PV*r*n$$  
+$FV$: Future Value  
+$PV$: Present value (Principal amount)  
+$r$: Interest Rate  
+$n$: number of periods 
+
+- **Compound Interest** is the interest that is paid that includes both principle and compounding interest (interest on top of the interest).  
+$$FV=PV*(1+\frac{r}{t})^{n*t}$$  
+$FV$: Future Value  
+$PV$: Present value (Principal amount)  
+$r$: Interest Rate  
+$n$: number of periods 
+$t$: times per period 
+
+
+## References
+
+* Fundamentals of Financial Management 13th Edition
+
