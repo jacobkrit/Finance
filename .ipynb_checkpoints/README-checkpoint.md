@@ -7,6 +7,7 @@
 - **Simple interest** is a predetermined percentage of the principle that was initially lent to the borrower that the borrower must pay in exchange for access to the funds.  
 
 $$FV=PV*r*n$$  
+
 $FV$: Future Value  
 $PV$: Present value (Principal amount)  
 $r$: Interest Rate  
