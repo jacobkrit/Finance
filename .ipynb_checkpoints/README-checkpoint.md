@@ -16,10 +16,11 @@ $n$: number of periods
 - **Compound Interest** is the interest that is paid that includes both principle and compounding interest (interest on top of the interest).  
 
 $$FV=PV*(1+\frac{r}{t})^{n*t}$$  
+
 $FV$: Future Value  
 $PV$: Present value (Principal amount)  
 $r$: Interest Rate  
-$n$: number of periods 
+$n$: number of periods   
 $t$: times per period 
 
 
