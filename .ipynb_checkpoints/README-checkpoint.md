@@ -24,6 +24,23 @@ $n$: number of periods
 $t$: times per period 
 
 
+
+**Annuity**: series of payments of a fixed amount for a specified number of periods.
+- **Regular Annuity**: End ordinary annuity or annuity in arrears. (Paid at the end)
+- **Annuity Due**: Beginning annuity due or annuity in advance (paid at the beginning).
+- **Deferred annuity**: first payment is later than first period (paid first later).
+- **Perpetuities**: annuities paid forever.
+
+
+$$FV=PR*\frac{1+\frac{r}{t}^{n*t} -1}{\frac{r}{t}}$$  
+
+$FVA$: Future value Annuity
+$PVA$: Present value Annuity
+$PR$: Periodic value (value of each payment)
+$r$: Annuity Interest Rate
+$n$: number of periods 
+$t$: times per period 
+
 ## References
 
 * Fundamentals of Financial Management 13th Edition
