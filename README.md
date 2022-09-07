@@ -45,3 +45,4 @@ $t$: times per period
 
 * Fundamentals of Financial Management 13th Edition
 
+![Ubuntu Logo Image](/images/Ubuntu-Logo.jpg "Ubuntu Logo Image")
